@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="20" viewBox="0 0 30 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3be43;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 14px;
+        font-family: PingFangSC-Regular, PingFang SC;
+        letter-spacing: 0.05em;
+      }
+    </style>
+  </defs>
+  <g id="或" transform="translate(-340 -224)">
+    <rect id="矩形_65" data-name="矩形 65" class="cls-1" width="30" height="20" rx="10" transform="translate(340 224)"/>
+    <text id="或-2" data-name="或" class="cls-2" transform="translate(355 239)"><tspan x="-7" y="0">或</tspan></text>
+  </g>
+</svg>

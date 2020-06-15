@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="50" viewBox="0 0 99 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a3a3a;
+        font-size: 14px;
+        font-family: PingFangSC-Regular, PingFang SC;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-2 {
+        fill: #f7f7f7;
+      }
+
+      .cls-3 {
+        fill: #747474;
+      }
+    </style>
+  </defs>
+  <g id="连线" transform="translate(-330 -209)">
+    <text id="连线-2" data-name="连线" class="cls-1" transform="translate(400 240)"><tspan x="0" y="0">连线</tspan></text>
+    <g id="连线-3" data-name="连线" transform="translate(-116.5 -451.3)">
+      <rect id="矩形_1461_拷贝" data-name="矩形 1461 拷贝" class="cls-2" width="50" height="50" transform="translate(446.5 660.3)"/>
+      <path id="联合_22" data-name="联合 22" class="cls-3" d="M-6932.33-334.237h-6.694a2.947,2.947,0,0,1-2.974-2.939v-8.946a1.459,1.459,0,0,0-1.488-1.469h-1.81a3.02,3.02,0,0,1-2.708,1.718,3.019,3.019,0,0,1-3-3,2.992,2.992,0,0,1,3-3,3.024,3.024,0,0,1,2.927,2.343h1.907a3,3,0,0,1,3.081,2.891v8.68a1.77,1.77,0,0,0,1.514,1.779h6.2l.045-4.094L-6927-335.1l-5.326,5.232Z" transform="translate(7410.837 1026.173)"/>
+    </g>
+  </g>
+</svg>

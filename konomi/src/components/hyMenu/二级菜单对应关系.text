@@ -1,0 +1,51 @@
+对外服务
+	中台数据目录	       sjzyml	        sjzyml_nor
+	数据接入查询	       sjjrcx	        sjjrcx_nor
+	数据上云申请	       sjsysq	        sjsysq_nor
+	数据服务申请	       sjfwsq	        sjfwsq_nor
+	平台资源申请	       ptzysq	        ptzysq_nor
+	我的待办		       wddb	            wddb_nor
+	数据问题提报           sjwttb           sjwttb_nor
+运营管理
+	数据开发规范化稽核     sjkfgfjh         sjkfgfjh_nor
+	平台账号权限管理       ptzhqxgl         ptzhqxgl_nor
+	应用项目台账管理       yyxmtzgl         yyxmtzgl_nor
+	RDS中台数据目录       rdsSjzyml        rdsSjzyml_nor
+	运维事件管理          ywsjgl           ywsjgl_nor
+	rds账号信息           rdsAccount       rdsAccount_nor
+运行监控
+	Base平台作业报错监控  basePtzybcjk     basePtzybcjk_nor
+	RDS同步作业监控       rdsTbzyjk        rdsTbzyjk_nor
+	OGG运行监控          oggYxjk          oggYxjk_nor
+	源表结构变更监控      ybjgbgjk         ybjgbgjk_nor
+	base任务运行情况监控  baseMonitor      baseMonitor_nor
+运维自动化
+	ODPS批量建表(EXCEL版) odpsPljbExcel   odpsPljbExcel_nor
+	ODPS配置文件生成      odpsPzwjsc      odpsPzwjsc_nor
+	ODPS增量合并脚本      odpsZlhbjb      odpsZlhbjb_nor
+	ODPS批量建表          odpsPljb        odpsPljb_nor
+	ODPS全量转增量脚本    odpsQlzzljb     odpsQlzzljb_nor
+知识目录
+	全文检索              qwjs            qwjs_nor
+	文件上传              wjsc            wjsc_nor
+定义中心
+	用户                 user             user_nor
+	角色                 role             role_nor
+	页面                 page             page_nor
+	菜单                 menu             menu_nor
+	常量                 constant         constant_nor
+	应用				 apply			  apply_nor        
+	用户组				 userGroup		  userGroup_nor     
+	组织				 organization     organization_nor   
+权限配置
+	角色权限             role_qx          role_qx_nor
+	个人权限             personal_qx      personal_qx_nor  
+消息中心
+	消息发送			msgSend			  msgSend_nor      
+	消息接收			msgReceive		  msgReceive_nor   
+配置中心
+	定时任务管理          dsrwgl           dsrwgl_nor
+	数据权限基础配置      dataConfig       dataConfig_nor   
+审计中心
+	登录审计             loginAudit       loginAudit_nor   
+	错误日志审计         errorLog         errorLog_nor     

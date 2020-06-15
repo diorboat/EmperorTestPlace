@@ -1,0 +1,99 @@
+.djs-palette {
+  width: 200px;
+  top: 0;
+  left: 0;
+  .entry,
+  .djs-palette-toggle {
+    width: 100%;
+    height: 52px;
+  }
+  .icon-custom {
+    width: calc(100% - 20px);
+    margin: 3px 10px;
+    height: 44px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    cursor: pointer;
+  }
+
+  .icon-basic {
+    background-image: url('./0.svg');
+  }
+  .icon-a {
+    background-image: url('./1.svg');
+  }
+  .icon-b {
+    background-image: url('./2.svg');
+  }
+  .icon-c {
+    background-image: url('./3.svg');
+  }
+  .icon-d {
+    background-image: url('./4.svg');
+  }
+  .icon-e {
+    background-image: url('./5.svg');
+  }
+  .icon-f {
+    background-image: url('./6.svg');
+  }
+  .icon-g {
+    background-image: url('./7.svg');
+  }
+  .icon-h {
+    background-image: url('./8.svg');
+  }
+  .icon-i {
+    background-image: url('./9.svg');
+  }
+  .icon-line {
+    background-image: url('./line.svg');
+  }
+  .icon-or {
+    background-image: url('./or.svg');
+  }
+  .icon-and {
+    background-image: url('./and.svg');
+  }
+  .group {
+    float: left;
+    width: 100%;
+    background: #fff;
+    &:before {
+      display: inline-block;
+      width: 100%;
+      height: 50px;
+      line-height: 50px;
+      font-size: 14px;
+      background: #fafbfc;
+      border-bottom: 1px solid #e5e6e7;
+      padding-left: 10px;
+      box-sizing: border-box;
+    }
+    &[data-group='model'] {
+      &:before {
+        content: '任务节点';
+      }
+    }
+    &[data-group='tools'] {
+      &:before {
+        content: '任务节点';
+      }
+    }
+    &[data-group='group'] {
+      &:before {
+        content: '基本任务流';
+      }
+    }
+  }
+}
+
+.bjs-powered-by {
+  display: none !important;
+}
+.djs-context-pad {
+  .icon-custom-delete {
+    background-image: url('./nodeDel.png') !important;
+    background-size: cover !important;
+  }
+}

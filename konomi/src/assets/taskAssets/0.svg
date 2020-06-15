@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="143" height="50" viewBox="0 0 143 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3a3a3a;
+        font-size: 14px;
+        font-family: PingFangSC-Regular, PingFang SC;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-2 {
+        fill: #f7f7f7;
+      }
+
+      .cls-3 {
+        fill: #747474;
+      }
+    </style>
+  </defs>
+  <g id="基本任务流" transform="translate(-330 -209)">
+    <text id="基本任务流-2" data-name="基本任务流" class="cls-1" transform="translate(400 240)"><tspan x="0" y="0">基本任务流</tspan></text>
+    <g id="基本任务流-3" data-name="基本任务流">
+      <rect id="矩形_1461_拷贝" data-name="矩形 1461 拷贝" class="cls-2" width="50" height="50" transform="translate(330 209)"/>
+      <path id="任务流" class="cls-3" d="M-2990.365-7V-11.19h-10.206v-6.1h1.79v4.247h8.416v-4.247H-2980V-7Zm1.832-1.859h6.668v-6.614h-6.668Zm3.313-11.855v-4.246h-8.416v4.246H-3004V-31h10.365v4.189h10.207v6.1Zm-16.915-1.813h6.668v-6.612h-6.668Z" transform="translate(3347 253)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="20" viewBox="0 0 30 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7dc02c;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 14px;
+        font-family: PingFangSC-Regular, PingFang SC;
+        letter-spacing: 0.05em;
+      }
+    </style>
+  </defs>
+  <g id="与" transform="translate(-454.2 -661.2)">
+    <rect id="矩形_64" data-name="矩形 64" class="cls-1" width="30" height="20" rx="10" transform="translate(454.2 661.2)"/>
+    <text id="与-2" data-name="与" class="cls-2" transform="translate(469.2 676.2)"><tspan x="-7" y="0">与</tspan></text>
+  </g>
+</svg>

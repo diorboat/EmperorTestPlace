@@ -1,0 +1,20 @@
+.hyMenu {
+  border: none !important;
+  height: 40px;
+  /* background-color */
+  /* padding-left: 300px; */
+  & li {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+  }
+}
+.el-menu-vertical-demo:not(.el-menu--collapse) {
+  width: 200px;
+  min-height: 400px;
+  border: none;
+}
+.el-menu {
+  border: none;
+}
