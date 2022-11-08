@@ -11,7 +11,7 @@
     "core-js": "^3.6.5",
     "echarts": "^4.8.0",
     "element-ui": "^2.13.2",
-    "stylus": "0.52.4",
+    "stylus": "0.59.0",
     "stylus-loader": "^3.0.2",
     "vue": "^2.6.11",
     "vue-baidu-map": "^0.21.22",
